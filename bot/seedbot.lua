@@ -205,6 +205,11 @@ function create_config( )
   config = {
     enabled_plugins = {
     "plugin",
+    "autoleave",
+    "chat",
+    "help",
+    "mod",
+    "map",
     "onservice",
     "inrealm",
     "ingroup",
